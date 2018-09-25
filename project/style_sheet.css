@@ -1,0 +1,67 @@
+html, body {
+  margin: 5px;
+  padding: 5px;
+}
+
+body {
+  background-color: black;
+  color: orange;
+  font-family: courier;
+  font-weight: 100;
+  text-align: left;
+}
+
+table, tbody, thead, th, tr, td{
+  border: 5px solid red;
+  height: auto;
+  width: auto;
+  color: white;
+  float: inherit;
+  font-weight:bold;
+  align-self:auto;
+  font-size: 30px;
+}
+
+h1{
+  color: pink;
+  font-variant: normal;
+
+}
+
+h2{
+  color: yellow;
+  font-family: fantasy;
+
+}
+
+h3{
+  color: orange;
+  font-family: cursive;
+
+}
+
+h4{
+  color: purple;
+  font-family: monospace;
+
+}
+
+h5{
+  color: green;
+  font-size: 20px;
+  float: right;
+}
+
+h6{
+  color:yellow;
+  float:right;
+}
+
+img{
+  border-radius: 100px;
+  float:right;
+}
+
+ol{
+  color: blue;
+}
